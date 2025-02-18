@@ -1,0 +1,40 @@
+2025-02-18 00:16:48.933 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\hshub\OneDrive\Documents\MyWorkspaces\Selenium Webdriver\Opencart121\master.xml.xml
+
+2025-02-18 00:16:51.760 [main] INFO  t.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+2025-02-18 00:16:52.151 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount link
+2025-02-18 00:16:52.526 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on Register link
+2025-02-18 00:16:52.531 [main] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-18 00:16:53.854 [main] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-02-18 00:16:56.019 [main] INFO  t.TC002_LoginTest - ****StartingTc002 login test
+2025-02-18 14:19:27.884 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\hshub\OneDrive\Documents\MyWorkspaces\Selenium Webdriver\Opencart121\master.xml.xml
+
+2025-02-18 14:19:47.256 [main] INFO  t.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+2025-02-18 14:19:47.389 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount link
+2025-02-18 14:19:47.905 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on Register link
+2025-02-18 14:19:47.908 [main] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-18 14:19:49.572 [main] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-02-18 14:20:02.297 [main] INFO  t.TC002_LoginTest - ****StartingTc002 login test
+2025-02-18 14:22:06.219 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\hshub\OneDrive\Documents\MyWorkspaces\Selenium Webdriver\Opencart121\master.xml.xml
+
+2025-02-18 14:22:15.535 [main] INFO  t.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+2025-02-18 14:22:15.722 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount link
+2025-02-18 14:22:16.432 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on Register link
+2025-02-18 14:22:16.435 [main] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-18 14:22:18.423 [main] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-02-18 14:22:28.583 [main] INFO  t.TC002_LoginTest - ****StartingTc002 login test
+2025-02-18 14:24:20.308 [main] INFO  o.t.i.Utils - [TestNG] Running:
+  C:\Users\hshub\OneDrive\Documents\MyWorkspaces\Selenium Webdriver\Opencart121\crossbrowsertesting.xml
+
+2025-02-18 14:24:27.863 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+2025-02-18 14:24:28.079 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount link
+2025-02-18 14:24:28.524 [TestNG-tests-2] INFO  t.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest *****
+2025-02-18 14:24:28.697 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationTest - Clicked on Register link
+2025-02-18 14:24:28.700 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-18 14:24:28.778 [TestNG-tests-2] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount link
+2025-02-18 14:24:29.683 [TestNG-tests-2] INFO  t.TC001_AccountRegistrationTest - Clicked on Register link
+2025-02-18 14:24:29.684 [TestNG-tests-2] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-02-18 14:24:30.126 [TestNG-tests-1] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-02-18 14:24:31.635 [TestNG-tests-2] INFO  t.TC001_AccountRegistrationTest - Validating expected message
